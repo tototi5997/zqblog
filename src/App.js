@@ -1,25 +1,36 @@
 import logo from './logo.svg';
+import React from 'react'
 import './App.css';
+// import {Link} from 'react-router-dom'
 
-function App() {
+export default class App extends React.Component {
+  //点击跳转页面
+  handleClick=()=>{
+    window.open('/#/home')
+    window.close('/');
+  }
+  render(){
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to ZhangQian's Blog!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href=""
+          // target="_blank"
           rel="noopener noreferrer"
+          onClick={this.handleClick}
         >
-          Learn React
+          Learn More
         </a>
+        {/* <Link to='/test'>Learn More</Link> */}
       </header>
     </div>
   );
+  }
 }
 
-export default App;
+
