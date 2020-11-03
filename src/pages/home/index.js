@@ -1,15 +1,15 @@
 import React from 'react';
-import Header from '../../components/header'
-import Footer from '../../components/footer';
+import Top from '../../components/header'
+import Foot from '../../components/footer';
 import Container from '../../components/container';
 
 export default class Home extends React.Component{
     render(){
         return(
             <div>
-                <Header></Header>
+                <Top></Top>
                 <Container></Container>
-                <Footer></Footer>
+                <Foot></Foot>
             </div>
         );
     }
