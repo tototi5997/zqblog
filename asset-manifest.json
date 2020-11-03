@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zqblog/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/zqblog/static/js/main.ac4f3a00.chunk.js",
+    "main.js.map": "/zqblog/static/js/main.ac4f3a00.chunk.js.map",
+    "runtime-main.js": "/zqblog/static/js/runtime-main.27613e98.js",
+    "runtime-main.js.map": "/zqblog/static/js/runtime-main.27613e98.js.map",
+    "static/js/2.c0718266.chunk.js": "/zqblog/static/js/2.c0718266.chunk.js",
+    "static/js/2.c0718266.chunk.js.map": "/zqblog/static/js/2.c0718266.chunk.js.map",
+    "static/js/3.2ab0daaa.chunk.js": "/zqblog/static/js/3.2ab0daaa.chunk.js",
+    "static/js/3.2ab0daaa.chunk.js.map": "/zqblog/static/js/3.2ab0daaa.chunk.js.map",
+    "index.html": "/zqblog/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/zqblog/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c0718266.chunk.js.LICENSE.txt": "/zqblog/static/js/2.c0718266.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/zqblog/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27613e98.js",
+    "static/js/2.c0718266.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ac4f3a00.chunk.js"
+  ]
+}
